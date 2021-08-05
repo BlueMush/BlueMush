@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T08:20:46.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.229 Whale/2.10.123.37 Safari/537.36" etag="BHtInSL2qx_bBbCr9sCQ" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T08:24:07.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.229 Whale/2.10.123.37 Safari/537.36" etag="VpnZ89ZZcxAGrqq4S-4u" version="14.9.4" type="github">
   <diagram id="sEROPakHyFahvjbdkEml" name="Page-1">
     <mxGraphModel dx="1162" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -95,8 +95,17 @@
         <mxCell id="N1FK3utdlKtRkK0WbqIv-44" value="uri single_mode check" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="280" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N1FK3utdlKtRkK0WbqIv-45" value="reqToken()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="160" height="20" as="geometry" />
+        <mxCell id="N1FK3utdlKtRkK0WbqIv-45" value="--model 옵션 체크" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="445" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N1FK3utdlKtRkK0WbqIv-46" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N1FK3utdlKtRkK0WbqIv-22" target="N1FK3utdlKtRkK0WbqIv-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="260" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N1FK3utdlKtRkK0WbqIv-47" value="--project 옵션 체크" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
